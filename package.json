@@ -1,0 +1,25 @@
+{
+  "name": "brobroker",
+  "version": "1.0.0",
+  "description": "compatibility matching app",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjplein/BroBroker.git"
+  },
+  "author": "Matthew Plein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjplein/BroBroker/issues"
+  },
+  "homepage": "https://github.com/mjplein/BroBroker#readme"
+}
